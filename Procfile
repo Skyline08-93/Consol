@@ -1,1 +1,1 @@
-skyline: python3 Consol.py
+skyline: python3 Console.py
